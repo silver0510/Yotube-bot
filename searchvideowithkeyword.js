@@ -1,5 +1,5 @@
 const youtubeSearch = require('youtube-search')
-const YTB_KEY ='AIzaSyCG8sxMtb8slgV3lzQwxwH9VqG5igjEPOQ';
+const YTB_KEY ='Youtube_API_KEY';
 const options = {
     type:'video',
     maxResults: 5,
